@@ -18,7 +18,7 @@ Machine learning system that predicts land parcel prices using real-world data.
 - Decision-support system for land appraisers
 - Built with Django for real-world deployment
 
-👉 [View Project](https://github.com/YOURUSERNAME/Land-Price-Estimator)
+👉 [View Project](https://github.com/m-q000/Land-Price-Estimator)
 
 ---
 
